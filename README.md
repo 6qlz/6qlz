@@ -1,7 +1,8 @@
 ## Security Researcher | Penetration Tester
 
 I'm 6qlz a 17 year old Security Researcher and Penetration Tester with a passion for vulnerability research, bug bounty hunting, and developing tools to automate and optimize security testing. I'm also a beginner Python scripter, learning and improving my coding skills to create efficient scripts for security testing. I specialize in subdomain enumeration, fuzzing, payload injection, and identifying vulnerabilities.
-
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # Ongoing Projects
 - Subdomain Enumeration Tool
 - Vulnerability Scanner
@@ -21,3 +22,5 @@ I'm 6qlz a 17 year old Security Researcher and Penetration Tester with a passion
 
 # Feel free to check out my repositories and contribute!
 Looking forward to collaborating on exciting projects, learning from the community, and building tools
+
+![](https://nirzak-streak-stats.vercel.app/?user=6qlz&theme=dark&hide_border=true)
