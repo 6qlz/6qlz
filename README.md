@@ -23,6 +23,9 @@ I'm 6qlz a 17 year old Security Researcher and Penetration Tester with a passion
 # Feel free to check out my repositories and contribute!
 
 Looking forward to collaborating on exciting projects, learning from the community, and building tools
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6qlz&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=6qlz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
