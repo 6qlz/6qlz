@@ -23,5 +23,6 @@ I'm 6qlz a 17 year old Security Researcher and Penetration Tester with a passion
 
 # Feel free to check out my repositories and contribute!
 Looking forward to collaborating on exciting projects, learning from the community, and building tools
-
-![](https://nirzak-streak-stats.vercel.app/?user=6qlz&theme=dark&hide_border=true)
+<div align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=6qlz&theme=dark&hide_border=true)
+</div>
